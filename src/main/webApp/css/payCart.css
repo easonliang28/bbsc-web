@@ -1,0 +1,67 @@
+.bg-secondary {
+    color: azure;
+}
+.pay-cart-item-img{
+    padding-left: 0px;
+}
+.cartBlockTab{
+    margin-right: 5px;
+    display: inline-block;
+    max-width: fit-content;
+    padding: 0px;
+    cursor: default;
+}
+.cart-item-control{
+    position: relative;
+}
+.cart-qty{
+    width: inherit;
+}
+.cart-price{
+
+    bottom: -8px;
+    right: 0px;
+    position: absolute;
+}
+.pay-cart-item-img h6{
+    cursor: pointer;
+}
+.tabBlockIn{
+    cursor: default !important;
+;
+}
+.item-block{
+    position: relative;
+}
+.item-block-img{
+    cursor: pointer;
+}
+.deleteCartItem{
+    bottom: 5px;
+    right: 5px;
+    position: absolute;
+}
+.select-all-block{
+    float: right;
+}
+.select-item-block{
+    float: right;
+}
+.right-row{
+}
+.right-item-col h2{
+    float: left;
+}
+.right-item-col h1{
+    float: right;
+}
+.right-item-col-price{
+    text-align: end;
+}
+.right-item-col-result{
+    margin-top: -1rem;
+}
+.right-col-btn{
+    z-index: 1;
+
+}

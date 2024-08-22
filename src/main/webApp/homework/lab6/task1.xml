@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="lab6.xsl"?>
+
+<timetable>
+	<name>Wollongong - Kiama</name>
+	<leavingTime>5 min</leavingTime>
+	<schedule>
+		<time>08:54</time>
+		<place>Wollongong Station</place>
+		<Platform>P2</Platform>
+	</schedule>
+	<schedule>
+		<time>08:56</time>
+		<place>Coniston Station</place>
+		<Platform>P2</Platform>
+	</schedule>
+	<schedule>
+		<time>09:01</time>
+		<place>Unanderra Station</place>
+		<Platform>P1</Platform>
+	</schedule>
+	<schedule>
+		<time>09:07</time>
+		<place>Dapto Station</place>
+		<Platform>P2</Platform>
+	</schedule>
+	<schedule>
+		<time>09:15</time>
+		<place>Albion Park Station</place>
+		<Platform>P2</Platform>
+	</schedule>
+	<schedule>
+		<time>09:21</time>
+		<place>Oak Flats Station</place>
+		<Platform>P2</Platform>
+	</schedule>
+	<schedule>
+		<time>09:25</time>
+		<place>Shellharbour Junction</place>
+		<Platform>P2</Platform>
+	</schedule>
+	<schedule>
+		<time>09:29</time>
+		<place>Minnamurra Station</place>
+		<Platform>P1</Platform>
+	</schedule>
+	<schedule>
+		<time>09:34</time>
+		<place>Bombo Station</place>
+		<Platform>P1</Platform>
+	</schedule>
+	<schedule>
+		<time>09:38</time>
+		<place>Kiama Station</place>
+		<Platform>P2</Platform>
+	</schedule>
+</timetable>

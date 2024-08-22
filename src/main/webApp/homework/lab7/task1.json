@@ -1,0 +1,58 @@
+{
+  "timetable": {
+    "name": "Wollongong - Kiama",
+    "leavingTime": "5 min",
+    "schedule": [
+      {
+        "time": "08:54",
+        "place": "Wollongong Station",
+        "Platform": "P2"
+      },
+      {
+        "time": "08:56",
+        "place": "Coniston Station",
+        "Platform": "P2"
+      },
+      {
+        "time": "09:01",
+        "place": "Unanderra Station",
+        "Platform": "P1"
+      },
+      {
+        "time": "09:07",
+        "place": "Dapto Station",
+        "Platform": "P2"
+      },
+      {
+        "time": "09:15",
+        "place": "Albion Park Station",
+        "Platform": "P2"
+      },
+      {
+        "time": "09:21",
+        "place": "Oak Flats Station",
+        "Platform": "P2"
+      },
+      {
+        "time": "09:25",
+        "place": "Shellharbour Junction",
+        "Platform": "P2"
+      },
+      {
+        "time": "09:29",
+        "place": "Minnamurra Station",
+        "Platform": "P1"
+      },
+      {
+        "time": "09:34",
+        "place": "Bombo Station",
+        "Platform": "P1"
+      },
+      {
+        "time": "09:38",
+        "place": "Kiama Station",
+        "Platform": "P2"
+      }
+    ]
+  }
+}

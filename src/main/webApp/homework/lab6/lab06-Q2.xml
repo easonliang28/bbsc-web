@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="lab6-Q2.xsl"?>
+<bookList>
+    <book isbn="978-059-600-4200">
+        <title>Learning XML</title>
+        <author>Erik T. Ray</author>
+        <publisher>O'Reilly Media</publisher>
+        <price>70.99</price>
+    </book>
+    <book isbn="978-032-155-9678">
+        <title>XML: Visual QuickStart Guide</title>
+        <author>Kevin Howard Goldberg</author>
+        <publisher>Peachpit Press</publisher>
+        <price>120.99</price>
+    </book>
+
+    <book isbn="978-159-327-9509">
+        <title>Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming</title>
+        <author>Marijn Haverbeke</author>
+        <publisher>No Starch Press</publisher>
+        <price>88.45</price>
+    </book>
+</bookList>

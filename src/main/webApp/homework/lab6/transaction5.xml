@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="transaction-style5.xsl"?>
+<dailyTransaction date="24/02/2015">
+  <person staffDbId="103" operation="update">
+    <firstName>John</firstName>
+    <lastName>Smith</lastName>
+    <mobile></mobile>
+  </person>
+  <person staffDbId="-1" operation="add">
+    <firstName>Mary</firstName>
+    <lastName>Jane</lastName>
+    <mobile>0244556677</mobile>
+  </person>
+  <person staffDbId="104" operation="remove">
+    <firstName>Matt</firstName>
+    <lastName>Brown</lastName>
+    <mobile></mobile>
+  </person>
+  <person staffDbId="105" operation="update">
+    <firstName>Jack</firstName>
+    <lastName>Patel</lastName>
+    <mobile>0211223344</mobile>
+  </person>
+  <person staffDbId="-1" operation="add">
+    <firstName>Frank</firstName>
+    <lastName>Jones</lastName>
+    <mobile>0244556677</mobile>
+  </person>
+  <person staffDbId="106" operation="remove">
+    <firstName>James</firstName>
+    <lastName>Williams</lastName>
+    <mobile>0413273345</mobile>
+  </person>
+</dailyTransaction>
+

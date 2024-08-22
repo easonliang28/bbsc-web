@@ -1,0 +1,51 @@
+
+.range {
+    height:10px;
+
+    border-radius: 4px;
+    background-color: #ddd;
+
+    margin-bottom: 3rem;
+}
+
+.range__button_1, .range__button_2 {
+    position: absolute;
+
+    width: 20px;
+    height: 20px;
+
+    cursor: move;
+    transform: translateY(-23%);
+
+    border: none;
+    border-radius: 50%;
+    background-color: #999;
+}
+.range__between
+{
+    position: absolute;
+    height: 5px;
+    width:0px;
+    margin-top:3px;
+    border: none;
+    background-color: #559933;
+}
+.range_inpt1, .range_inpt2
+{
+    margin-top:20px;
+    width: 40%;
+}
+.slider-input{
+    width: 100%;
+}
+.search-bar{
+    margin-bottom: 2rem;
+}
+.search-bar-span{
+    font-size: smaller;
+    padding-right:15px;
+}
+#btnGroupDropOrderBy{
+
+    transform: translateY(-3.5px);
+}
